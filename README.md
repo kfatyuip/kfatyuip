@@ -4,4 +4,4 @@
 
 - 🌱 I’m currently learning Rust and Java
 
-- 📫 How to reach me: kfatyuip@163.com
+- 📫 How to reach me: kfatyuip@gmail.com
